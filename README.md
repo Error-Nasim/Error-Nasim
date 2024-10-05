@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **manasim1213@gmail.com**
 
-- ⚡ Fun fact **I think writing code in a code editor is easier compared to writing pseudocode**
+- ⚡ Fun fact, **I think writing a complete code is easier after writing the pseudocode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

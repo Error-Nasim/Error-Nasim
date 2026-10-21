@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoerror-nasimy404&label=Profile%20views&color=0e75b6&style=flat" alt="error-nasim" /> </p>
 
-- 🔭 I’m currently working on **British American Tobacco (BAT)**
+- 🔭 I’m currently working on **Myself**,(Cause the only person I want to impress is Me*-*)
 
 - 🌱 I’m currently learning **GOLang Along With Data Structure And Algorithms**
 
@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **c++,STL,OOP and problem solving**
 
-- 📫 How to reach me **manasim1213@gmail.com**
+- 📫 How to reach me: **manasim1213@gmail.com**
 
-- ⚡ Fun fact, **I think writing a complete code is easier after writing the pseudocode**
+- ⚡ Fun fact: **I think writing complete code is easier after writing the pseudocode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
